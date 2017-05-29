@@ -1,2 +1,2 @@
 # hello-world
-Just the beginning
+Just a beginning
